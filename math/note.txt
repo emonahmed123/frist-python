@@ -1,0 +1,11 @@
+Math 
+-Square root 
+-Power 
+-Trigonometric functions
+-Logarithmic functions
+-Factorail 
+-Absolute value 
+-Floor  and Ceiling 
+-Constants
+-GCM:Greatest Common Divisor
+-LCM Least CommonMultiple
