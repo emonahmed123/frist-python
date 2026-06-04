@@ -1,0 +1,5 @@
+Operation Precedentce
+
+-Exponentiation **
+-Unary plus, Unary minus , Bitwise Not (+x,-x,~x)
+-Multiplication, Division, Floor diuvision ,Modulus (*,/,//,%)
