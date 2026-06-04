@@ -3,3 +3,12 @@ Operation Precedentce
 -Exponentiation **
 -Unary plus, Unary minus , Bitwise Not (+x,-x,~x)
 -Multiplication, Division, Floor diuvision ,Modulus (*,/,//,%)
+-Addition, Subtraction (+,-)
+-Bitwise shift (<< >>)
+-Bitwise AND (&)
+-Bitwise XOR (^)
+-Bitwase (!)
+-Comparisons,Identity,Membership (== ,!=, >, < ,>=,<=,is is not, in not in)
+-Logical NOT (not)
+-Logical AND (and)
+Logical OR

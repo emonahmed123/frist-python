@@ -63,7 +63,7 @@ name = "Alice"  #string data type
 
 """
 sd
-
+ v
 """
 
 # 3. range - represents a sequence of numbers. Example: range(0, 10) represents numbers from 0 to 9
